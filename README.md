@@ -1,5 +1,5 @@
 
-**Please see new gRodon2 which can also predict max growth rates for eukaryotic microbes at `https://github.com/jlw-ecoevo/gRodon2`**
+**Please see new [`gRodon2`](https://github.com/jlw-ecoevo/gRodon2) which can also predict max growth rates for eukaryotic microbes at [`https://github.com/jlw-ecoevo/gRodon2`](https://github.com/jlw-ecoevo/gRodon2)**
 
 # `gRodon`
 
